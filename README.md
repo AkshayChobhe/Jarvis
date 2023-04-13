@@ -1,4 +1,4 @@
-![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTk5ODc0ODNjMjc4N2FkYjAwYzRlYjY5M2Y4NmExNTA1NmRhNDRhOSZjdD1n/5PypLFMU0SCVKUNUxS/giphy.gif)
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/5PypLFMU0SCVKUNUxS" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/5PypLFMU0SCVKUNUxS">via GIPHY</a></p>
 <b><h3>Jarvis Desktop Voice Assistant</h3></b><hr>
 This is a desktop voice assistant project named Jarvis that can perform various tasks and actions based on voice commands given by the user.
 <h4><b>
