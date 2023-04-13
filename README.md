@@ -19,6 +19,7 @@ Installation</h4></b>
 <ul>
   <li>To activate Jarvis, run python file with given imports by your command.</li>
   <li>For example, "open Google" will open the Google website in your default browser.</li>
-  
-  <h4><b>Contributing</b></h4>
-    Contributions are welcome! If you'd like to contribute to this project, please open an issue or a pull request.
+</ul>  
+<h4><b>
+Contributing</b></h4>
+<p>Contributions are welcome! If you'd like to contribute to this project, please open an issue or a pull request.</p>
