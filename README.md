@@ -1,6 +1,6 @@
+![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTk5ODc0ODNjMjc4N2FkYjAwYzRlYjY5M2Y4NmExNTA1NmRhNDRhOSZjdD1n/5PypLFMU0SCVKUNUxS/giphy.gif)
 <b><h3>Jarvis Desktop Voice Assistant</h3></b><hr>
 This is a desktop voice assistant project named Jarvis that can perform various tasks and actions based on voice commands given by the user.
-![](https://github.com/AkshayChobhe/Jarvis/blob/main/jarvis.gif)
 <h4><b>
 Features</b></h4>
 <ul>
